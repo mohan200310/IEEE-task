@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(237, 250, 202);
+    font-family: 'lora',serif;
+    background-image: url('../IEEE/pinterest.jpg');
+    background-position:center;
+    background-size: cover;
+    height: 1vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px;
+    
+}
+p{
+    font-family: 'Noto Sans', sans-serif;
+    color:#562B08;
+}
+
+
+h1{
+   
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    color: #562B08;
+   
+}
+.btn{
+   border: 3px solid;
+    border-color: #562B08;
+    font-size: 18px;
+    border: radius 10px;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #562B08;
+    color: rgb(5, 0, 0);
+}
+h2{
+    color: #562B08;
+}
+h3{
+    color: #562B08;
+}
